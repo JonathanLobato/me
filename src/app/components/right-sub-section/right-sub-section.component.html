@@ -1,4 +1,7 @@
-<div style="display: flex; align-items: center">
+<div
+  [style.marginBottom]="subsection?.description ? '0px' : '10px'"
+  style="display: flex; align-items: center"
+>
   @if( subsection?.icon){
   <div style="height: 21px">
     <span style="font-size: 20px" class="material-symbols-outlined">
@@ -9,7 +12,9 @@
   <div
     [style.marginLeft]="subsection?.icon ? '8px' : '0px'"
     [style.marginBottom]="subsection?.icon ? '0px' : '10px'"
-    [style.fontSize]="subsection?.icon ? '18px' : '15px'"
+    [style.fontSize]="
+      subsection?.icon && subsection?.description ? '18px' : '15px'
+    "
     class="subtitle"
   >
     {{ subsection?.title }}

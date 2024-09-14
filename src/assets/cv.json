@@ -14,52 +14,40 @@
                 "title": "Fortalezas",
                 "subsections": [
                     {
-                        "title": "Pasión por el deporte",
-                        "description": "",
-                        "icon": "star_half"
+                        "title": "Pasión por el Deporte",
+                        "icon": "directions_run"
                     },
                     {
-                        "title": "Planificación de entrenamientos",
-                        "description": "Capacidad de pensar fuera de la caja y encontrar soluciones alternativas e innovadoras centradas en la optimización de procesos.",
-                        "icon": "cognition"
+                        "title": "Conocimiento de la Anatomía Humana",
+                        "icon": "hand_bones"
+                    },
+                    {
+                        "title": "Primeros Auxilios",
+                        "icon": "local_hospital"
+                    },
+                    {
+                        "title": "Planificación de Entrenamientos",
+                        "icon": "calendar_month"
                     },
                     {
                         "title": "Profesionalidad y Compromiso",
-                        "description": "Colaboración y coordinación de perfiles con diferentes roles y background tecnológico.",
-                        "icon": "diversity_4"
+                        "icon": "work"
                     },
                     {
                         "title": "Puntualidad y Organización",
-                        "description": "Habilidad para expresarse y divulgar información de manera efectiva.",
-                        "icon": "brand_awareness"
+                        "icon": "schedule"
                     },
                     {
                         "title": "Capacidad Liderazgo",
-                        "description": "Colaboración y coordinación de perfiles con diferentes roles y background tecnológico.",
-                        "icon": "diversity_4"
+                        "icon": "psychology"
                     },
                     {
-                        "title": "Comunicación Empática y motivadora",
-                        "description": "Colaboración y coordinación de perfiles con diferentes roles y background tecnológico.",
-                        "icon": "diversity_4"
+                        "title": "Comunicación Empática y Motivadora",
+                        "icon": "voice_selection"
                     },
-                    
                     {
                         "title": "Resolución de Problemas",
-                        "description": "Colaboración y coordinación de perfiles con diferentes roles y background tecnológico.",
-                        "icon": "diversity_4"
-                    },
-                    
-                    {
-                        "title": "Conocimiento de la Anatomía Humana",
-                        "description": "Colaboración y coordinación de perfiles con diferentes roles y background tecnológico.",
-                        "icon": "diversity_4"
-                    },
-                    
-                    {
-                        "title": "Conocimiento de Primeros Auxilios",
-                        "description": "Colaboración y coordinación de perfiles con diferentes roles y background tecnológico.",
-                        "icon": "diversity_4"
+                        "icon": "emoji_objects"
                     }
                 ]
             },
@@ -67,7 +55,28 @@
                 "title": "Habilidades",
                 "subsections": [
                     {
-                        "description": "Crossfit · Halterofilia · Powerlifting · Luchas Olimpicas · Psicomotricidad para menores · GAP · Entrenamiento Personal · Natación · Gimnasia para mayores · Tonificación · Actividades Deportivas con Discapacitados · Defensa Personal · Gimnasia Deportiva · Ciclo Indoor · TRX · Stetching & Movilidad · Masaje Deportivo · Indoorwalking · HIIT · Rehabilitación de Lesiones · Control Postural · Liberación con Foam Roller · Pilates"
+                        "description": "Crossfit · Powerlifting · Halterofilia · HIIT · Luchas Olímpicas · GAP · Tonificación · Gimnasia Deportiva · TRX · Ciclo Indoor · Indoorwalking · Defensa Personal · Psicomotricidad para Menores · Gimnasia para Mayores · Actividades Deportivas con Discapacitados · Entrenamiento Personalizado · Rehabilitación de Lesiones · Masaje Deportivo · Control Postural · Liberación Miofascial con Foam Roller · Pilates · Natación · Stretching & Movilidad"
+                    }
+                ]
+            },
+            {
+                "title": "Logros Deportivos",
+                "subsections": [
+                    {
+                        "title": "Campeón de Comunidad Autónoma de Madrid de Lucha Grecorromana 2008 y 2009",
+                        "icon": "trophy"
+                    },
+                    {
+                        "title": "Subcampeón Europeo de Lucha Grecorromana 2007",
+                        "icon": "social_leaderboard"
+                    },
+                    {
+                        "title": "Bronce en el Campeonato de España de Lucha Grecorromana 2006 y 2007",
+                        "icon": "social_leaderboard"
+                    },
+                    {
+                        "title": "Deportista Profesional en la Selección Española de Lucha Grecorromana de 2007 a 2009",
+                        "icon": "sports_martial_arts"
                     }
                 ]
             },
@@ -79,21 +88,6 @@
                     },
                     {
                         "title": "Inglés - B2"
-                    }
-                ]
-            },
-            {
-                "title": "Logros",
-                "subsections": [
-                    {
-                        "title": "Subcampeón Europeo de Lucha Grecorromana",
-                        "description": "",
-                        "icon": "flag"
-                    },
-                    {
-                        "title": "Campeón CCAM de Lucha Grecorromana",
-                        "description": "",
-                        "icon": "slow_motion_video"
                     }
                 ]
             }
@@ -111,31 +105,49 @@
                 "title": "Experiencia",
                 "subsections": [
                     {
-                        "title": "Technical Solution PRO",
-                        "job": "CaixaBank Tech",
-                        "description": "Participación en el proyecto de transformación de PL/I a Java en entornos IBM Mainframe utilizando IA Generativa dentro del Departamento de Innovación Interna. Definicion del plan de innovación anual, radar tecnológico y buzón de ideas.",
-                        "dates": "FEB 24 - Actualmente",
-                        "location": "Las Rozas, Madrid (España)",
-                        "tech": "PL/I, Python, Azure, Google Cloud, Power Automate, Gitlab.",
-                        "sector": "Ingeniería Informática, Investigación, Innovación, Banca, Inteligencia Artificial."
+                        "title": "Entrenador Personal",
+                        "job": "The REUSE Company",
+                        "description": "Entrenamientos personalizados y actividades para grupos reducidos. Diseño, planificación y ejecución de eventos de 'team building' y actividades de dinamización. Instructor de clases de defensa personal, yoga y pilates",
+                        "dates": "2022 - Actualmente",
+                        "location": "Leganés, Madrid (Spain)",
+                        "tech": "Entrenamiento Personalizado, Defensa Personal, Yoga, Pilates.",
+                        "sector": "Deportes y Acvtividad Física"
                     },
                     {
-                        "title": "Senior Full Stack Developer",
-                        "job": "The REUSE Company",
-                        "description": "Participación en el proyecto europeo IMOLA IV, para la creación y construcción de un sistema online de gestión de ontologías aplicado al registro de la propiedad europeo. Participación en el proyecto europeo FCAS, para el desarrollo del nuevo sistema de combate aéreo de la unión europea. Gestión del proyecto y desarrollo del sistema semántico de búsqueda para la plataforma de RTVE de visualización de contenido bajo demanda: RTVE Play. Migración del stack tecnológico de TRC a .Net Core. Product Owner del producto KMO. Product Owner del software de uso interno Doorway. Centralizacion, diseño y actualización de los iconos de las herramientas de la compañía.",
-                        "dates": "MAR 22 - FEB 24",
+                        "title": "Técnico Deportivo Multidisciplinar",
+                        "job": "Universidad Carlos III de Madrid",
+                        "description": "Monitor de sala, supervisión de entrenamientos y asistencia técnica. Impartición de clases de Crossfit, Running, Mantenimiento Físico, Spinning, Pilates, Tonificación, Mediciones Corporales y Natación, promoviendo la mejora del rendimiento deportivo.",
+                        "dates": "2010 - 2024",
                         "location": "Leganés, Madrid (Spain)",
-                        "tech": "Angular, .NET, .NET Core, Node, Elasticsearch, ASP.NET, SQL, XAML, SVN, Git.",
-                        "sector": "Ingeniería Informática, Multimedia, Defensa, Procesamiento del Lenguaje Natural."
+                        "tech": "Crossfit, Running, Mantenimiento Físico, Natación",
+                        "sector": "Deportes y Actividad Física"
                     },
                     {
-                        "title": "Full Stack Developer",
-                        "job": "The REUSE Company",
-                        "description": "Participación en múltiples proyectos de I+D+i relacionados con el análisis semántico del leguaje natural y detección de patrones. Proyecto Buscador semántico de recetas de cocina RTVE. Proyecto Narange (en colaboración con la operadora de telefonía Orange España), para la clasificación automática de encuestas de satisfacción de usuarios en distintos agrupadores mediante el análisis del lenguaje natural. Proyectos Europeos IMOLAII e IMOLAIII, para la visualización de tesauros a través de una aplicación web y para la construcción de un sistema online de gestión de ontologías. POC Acciona, para la visualización de ontologías a través de una aplicación web. Liderazgo y participación en los productos: Skylability Platform (framework de escalabilidad para la ejecución distribuida de tareas computacionalmente pesadas) y Knowledge Manager Online (visualizador web de ontologías). Diseño y desarrollo del software Doorway, sistema de fichajes interno de la compañía.",
-                        "dates": "MAR 19 - MAR 22",
+                        "title": "Técnico Deportivo Multidisciplinar",
+                        "job": "Forus Getafe",
+                        "description": "Monitor de sala y gestión de clases. Impartición de Crossfit, Running, Sesiones de Mantenimiento Físico y Natación. Realización de tareas de socorrista en instalaciones acuáticas.",
+                        "dates": "2017 - 2019",
                         "location": "Leganés, Madrid (Spain)",
-                        "tech": "Angular, .NET, Node, Elasticsearch, ASP.NET, SQL, XAML, SVN, Git.",
-                        "sector": "Ingeniería Informática, Multimedia, Análisis del lenguaje natural."
+                        "tech": "Crossfit, Running, Mantenimiento Físico, Natación, Socorrismo",
+                        "sector": "Deportes y Actividad Física"
+                    },
+                    {
+                        "title": "Coordinador de Fisioterapia",
+                        "job": "Universidad Carlos III de Madrid",
+                        "description": "Coordinación de la sección de fisioterapia en la carrera popular UC3M Intercampus, asegurando el correcto funcionamiento del equipo de fisioterapeutas y el bienestar de los participantes.",
+                        "dates": "2014 - 2018",
+                        "location": "Leganés, Madrid (Spain)",
+                        "tech": "Fisioterapia Deportiva",
+                        "sector": "Salud Deportiva y Eventos"
+                    },
+                    {
+                        "title": "Socorrista Acuático",
+                        "job": "Urbanización Los Olivos, Aquarium",
+                        "description": "Responsable del control de accesos, mantenimiento de las instalaciones y supervisión de la seguridad en la piscina. Funciones de socorrista garantizando la seguridad de los usuarios.",
+                        "dates": "2013 - 2016",
+                        "location": "Getafe, Madrid (Spain)",
+                        "tech": "Socorrismo, Seguridad en Piscinas",
+                        "sector": "Deportes Acuáticos"
                     }
                 ]
             }
@@ -149,63 +161,113 @@
                 "title": "Experiencia",
                 "subsections": [
                     {
-                        "title": "Técnico de Apoyo a la Investigación",
-                        "job": "Universidad Carlos III de Madrid (EPS)",
-                        "description": "Participación en diferentes proyectos de investigación relacionados con el análisis semántico del leguaje natural y detección de patrones. Cátedra SMART-RTVE, para la monitorización y seguimiento de perfiles de personajes famosos en las redes sociales. Proyecto Social Media Radar, para la detección temprana de eventos (como accidentes de tráfico en zonas rurales) a través de las redes sociales. POC Orange, para la clasificación automática de encuestas de satisfacción de usuarios en distintos agrupadores mediante el análisis del lenguaje natural.",
-                        "dates": "MAR 17 - MAR 19",
-                        "location": "Leganés, Madrid (Spain)",
-                        "tech": "Angular, .NET, Node, ArangoDB, MongoDB, ASP.NET, SQL, Git.",
-                        "sector": "Ingeniería Informática, Análisis del lenguaje natural, Big Data."
+                        "title": "Técnico Deportivo",
+                        "job": "GE Escuela de Ocio SL",
+                        "description": "Responsable de actividades deportivas y dinamización en centros de menores. Fomento del deporte como herramienta de integración social y desarrollo físico.",
+                        "dates": "2011",
+                        "location": "Vallecas, Madrid (Spain)",
+                        "tech": "Deporte para Jóvenes, Dinamización de Actividades",
+                        "sector": "Deporte Social y Educación"
                     },
                     {
-                        "title": "Becario Cátedra SMART-RTVE",
-                        "job": "Universidad Carlos III de Madrid (EPS)",
-                        "description": "Departamento de informática. Grupo Knowledge Reuse. Becario colaborador en el proyecto SMART-RTVE en colaboración con Radio Televisión Española.",
-                        "dates": "MAR 17 - MAR 19",
-                        "location": "Leganés, Madrid (Spain)",
-                        "tech": "AngularJS, JAVA, SPRING, Apache Tomcat, ArangoDB, MongoDB, Git.",
-                        "sector": "Ingeniería Informática, Análisis del lenguaje natural, Big Data."
+                        "title": "Técnico Deportivo",
+                        "job": "Centro Deportivo Municipal San Agustín de Guadalix",
+                        "description": "Impartición de clases de gimnasia para la tercera edad, aerobic y predeporte para niños. Fomento de la actividad física adaptada a diferentes grupos de edad.",
+                        "dates": "2011",
+                        "location": "San Agustín de Guadalix, Madrid (Spain)",
+                        "tech": "Gimnasia para Mayores, Aerobic, Predeporte Infantil",
+                        "sector": "Deportes y Actividad Física"
                     },
                     {
-                        "title": "Becario Programador",
-                        "job": "ISD Ibérica/PHILIPS",
-                        "description": "Participación en diferentes proyectos relacionados con la domótica arquitectural y el alumbrado inteligente. Proyecto Torre CEPSA, programación del entorno y dispositivos encargados de la iluminación exterior del edificio. Proyecto BBVA Santa Bárbara, programación de un sistema inteligente de alumbrado interior. Proyecto Tribunal Constitucional, programación de un sistema inteligente de alumbrado interior. Proyecto Indra, programación de un sistema inteligente de alumbrado interior. Proyecto Bricodepot Gaia (Oporto - Portugal), programación de un sistema inteligente de alumbrado interior.",
-                        "dates": "AGO 14 - OCT 14",
-                        "location": "Las Tablas, Madrid (Spain)",
-                        "tech": "Dynalite, DALI, Ensamblador, Linux.",
-                        "sector": "Electricidad, Domótica, Electrónica, Iluminación, Telecomunicaciones."
+                        "title": "Técnico Deportivo",
+                        "job": "Fitness First",
+                        "description": "Monitor de sala y responsable de impartir clases de GAP y entrenamientos personalizados, enfocados en la mejora de la condición física de los usuarios.",
+                        "dates": "2010",
+                        "location": "Madrid (Spain)",
+                        "tech": "GAP, Entrenamiento Personalizado, Mantenimiento Físico",
+                        "sector": "Deportes y Actividad Física"
+                    },
+                    {
+                        "title": "Técnico Deportivo",
+                        "job": "Centro Deportivo Municipal J. M. Cagigal",
+                        "description": "Impartición de clases de natación, aquagym y mantenimiento físico, promoviendo la salud a través de actividades acuáticas y ejercicios de bajo impacto.",
+                        "dates": "2010",
+                        "location": "Madrid (Spain)",
+                        "tech": "Natación, Aquagym, Mantenimiento Físico",
+                        "sector": "Deportes Acuáticos y Actividad Física"
+                    },
+                    {
+                        "title": "Monitor de Lucha",
+                        "job": "Federación Madrileña de Lucha",
+                        "description": "Instructor de lucha en actividades extraescolares del Colegio Isaac Peral, promoviendo valores como la disciplina y el respeto a través del deporte.",
+                        "dates": "2007 - 2008",
+                        "location": "Madrid (Spain)",
+                        "tech": "Lucha, Artes Marciales",
+                        "sector": "Deportes de Combate y Educación Física"
                     }
                 ]
             },
             {
-                "title": "Educación y Formación",
+                "title": "Educación y Formación Específica",
                 "subsections": [
                     {
-                        "title": "Doctorado en Ciencia y Tecnología Informática (en pausa)",
-                        "job": "Universidad Carlos III de Madrid (EPS)",
-                        "description": "Generación automática de ontologías mediante el procesamiento del lenguaje natural a través de inteligencia artificial.",
-                        "dates": "MAR 19 - Actualmente",
+                        "title": "Técnico Especializado en el Método Pilates",
+                        "job": "Orthos",
+                        "description": "Formación avanzada en el método Pilates, incluyendo la planificación, ejecución y evaluación de sesiones centradas en la mejora de la fuerza, flexibilidad y bienestar general. Capacitación en técnicas específicas de Pilates para diferentes niveles y necesidades, y habilidad en la adaptación de ejercicios para optimizar los resultados y prevenir lesiones.",
+                        "dates": "2024"
+                    },
+                    {
+                        "title": "Título de Instructor de Indoorwalking",
+                        "job": "Indoorwalking Oficial",
+                        "description": "Certificación en el método de Indoorwalking, centrada en la planificación y ejecución de sesiones de entrenamiento en grupo utilizando máquinas especializadas para mejorar la resistencia cardiovascular y la tonificación muscular. Capacitación en técnicas de motivación y seguimiento del progreso de los participantes.",
+                        "dates": "2016"
+                    },
+                    {
+                        "title": "Certificado Primera Corona Pro-Cycling",
+                        "job": "Wellness Institute",
+                        "description": "Certificación en técnicas avanzadas de ciclismo indoor, incluyendo la planificación y ejecución de sesiones de entrenamiento en bicicleta estacionaria para mejorar el rendimiento cardiovascular y la fuerza. Habilidades en el diseño de programas de entrenamiento personalizados y en la gestión de clases grupales.",
+                        "dates": "2013"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "info": null,
+        "rightSections": null,
+        "leftSections": [
+            {
+                "title": "Educación y Formación Específica",
+                "subsections": [
+                    {
+                        "title": "Título de Entrenador Superior de Culturismo, Musculación y Fitness",
+                        "job": "Federación Española de Halterofilia",
+                        "description": "Especialización en culturismo, musculación y fitness con un enfoque en la planificación y ejecución de programas de entrenamiento avanzado para la mejora del rendimiento físico y la salud. Competencias en técnicas de entrenamiento para la maximización de fuerza y masa muscular, así como en la prevención y tratamiento de lesiones.",
+                        "dates": "2009"
+                    },
+                    {
+                        "title": "Título de Entrenador de Lucha Nivel 1",
+                        "job": "Federación Española de Luchas Olímpicas y Disciplinas Asociadas",
+                        "description": "Certificación en entrenamiento de lucha olímpica, abarcando técnicas básicas y avanzadas de lucha, así como la planificación de sesiones de entrenamiento y competiciones. Competencias en la enseñanza de habilidades técnicas y tácticas para la mejora del rendimiento en competiciones de lucha.",
+                        "dates": "2006"
+                    }
+                ]
+            },
+            {
+                "title": "Educación y Formación Académica",
+                "subsections": [
+                    {
+                        "title": "Ciclo Superior de Técnico en Actividades Físicas y Animación Deportiva",
+                        "job": "I. E. S. Ortega y Gasset",
+                        "description": "Formación especializada en la planificación, ejecución y evaluación de actividades físicas y deportivas, enfocada en la mejora del rendimiento, la salud y el bienestar. Capacitación en técnicas de entrenamiento deportivo, animación de actividades recreativas, y gestión de eventos deportivos. Competencias en primeros auxilios, socorrismo, y adaptación de actividades a diferentes grupos de edad y niveles de condición física.",
+                        "dates": "2008 - 2010",
                         "location": "Leganés, Madrid (Spain)"
                     },
                     {
-                        "title": "Máster en Ingeniería Informática",
-                        "job": "Universidad Carlos III de Madrid (EPS)",
-                        "description": "Auditoria y Certificación, Integración de sistemas, Computación Grafica, Diseño y Evaluación de Arquitecturas de Computación, Dirección de proyectos de I+D+i, Computación de Altas Prestaciones, Sistemas de Apoyo a la Toma de Decisiones.",
-                        "dates": "SEP 15 - MAR 17",
-                        "location": "Leganés, Madrid (Spain)"
-                    },
-                    {
-                        "title": "Grado en Ingeniería Informática (Mención en Ingeniería de Computadores)",
-                        "job": "Universidad Carlos III de Madrid (EPS)",
-                        "description": "Teoría de Autómatas y Lenguajes Formales, Ficheros y Bases de Datos, Criptografía y Seguridad informática, Ingeniería Software, Redes de Ordenadores, Diseño de Sistemas Operativos, Computación Ubicua, Sistemas Distribuidos.",
-                        "dates": "SEP 11 - JUN 15",
-                        "location": "Leganés, Madrid (Spain)"
-                    },
-                    {
-                        "title": "Bachillerato en Ciencias Tecnológicas",
-                        "job": "Colegio Mater Purissima",
-                        "description": "Tecnología, Física, Química y Dibujo Técnico.",
-                        "dates": "SEP 09 - JUN 11",
+                        "title": "Bachillerato en Ciencias Sociales",
+                        "job": "I. E. S. Ortega y Gasset",
+                        "description": "Formación académica centrada en el estudio de las ciencias sociales, abarcando materias como economía, historia, geografía y sociología. Desarrollo de habilidades analíticas y críticas, con un enfoque en la comprensión de fenómenos sociales, económicos y políticos. Capacitación en la interpretación de datos y el análisis de la realidad social, preparando para estudios superiores en áreas como administración, derecho, psicología y relaciones internacionales.",
+                        "dates": "2005 - 2007",
                         "location": "Madrid (Spain)"
                     }
                 ]
