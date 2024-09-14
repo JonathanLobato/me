@@ -1,0 +1,277 @@
+[
+    {
+        "info": {
+            "name": "Jonathan Lobato",
+            "jobTitle": "Técnico Deportivo Multidisciplinar",
+            "email": "jonyjall@hotmail.com",
+            "location": "Getafe, Madrid (Spain)",
+            "phoneNumber": "+34 690 100 950",
+            "img": "assets/img/me.jpg",
+            "linkedin": "https://www.linkedin.com/in/jonathan-lobato-ley/"
+        },
+        "rightSections": [
+            {
+                "title": "Fortalezas",
+                "subsections": [
+                    {
+                        "title": "Pasión por el Deporte",
+                        "icon": "directions_run"
+                    },
+                    {
+                        "title": "Conocimiento de la Anatomía Humana",
+                        "icon": "hand_bones"
+                    },
+                    {
+                        "title": "Primeros Auxilios",
+                        "icon": "local_hospital"
+                    },
+                    {
+                        "title": "Planificación de Entrenamientos",
+                        "icon": "calendar_month"
+                    },
+                    {
+                        "title": "Profesionalidad y Compromiso",
+                        "icon": "work"
+                    },
+                    {
+                        "title": "Puntualidad y Organización",
+                        "icon": "schedule"
+                    },
+                    {
+                        "title": "Capacidad Liderazgo",
+                        "icon": "psychology"
+                    },
+                    {
+                        "title": "Comunicación Empática y Motivadora",
+                        "icon": "voice_selection"
+                    },
+                    {
+                        "title": "Resolución de Problemas",
+                        "icon": "emoji_objects"
+                    }
+                ]
+            },
+            {
+                "title": "Habilidades",
+                "subsections": [
+                    {
+                        "description": "Crossfit · Powerlifting · Halterofilia · HIIT · Luchas Olímpicas · GAP · Tonificación · Gimnasia Deportiva · TRX · Ciclo Indoor · Indoorwalking · Defensa Personal · Psicomotricidad para Menores · Gimnasia para Mayores · Actividades Deportivas con Discapacitados · Entrenamiento Personalizado · Rehabilitación de Lesiones · Masaje Deportivo · Control Postural · Liberación Miofascial con Foam Roller · Pilates · Natación · Stretching & Movilidad"
+                    }
+                ]
+            },
+            {
+                "title": "Logros Deportivos",
+                "subsections": [
+                    {
+                        "title": "Campeón de Comunidad Autónoma de Madrid de Lucha Grecorromana 2008 y 2009",
+                        "icon": "trophy"
+                    },
+                    {
+                        "title": "Subcampeón Europeo de Lucha Grecorromana 2007",
+                        "icon": "social_leaderboard"
+                    },
+                    {
+                        "title": "Bronce en el Campeonato de España de Lucha Grecorromana 2006 y 2007",
+                        "icon": "social_leaderboard"
+                    },
+                    {
+                        "title": "Deportista Profesional en la Selección Española de Lucha Grecorromana de 2007 a 2009",
+                        "icon": "sports_martial_arts"
+                    }
+                ]
+            },
+            {
+                "title": "Idiomas",
+                "subsections": [
+                    {
+                        "title": "Español - Lengua Materna"
+                    },
+                    {
+                        "title": "Inglés - B2"
+                    }
+                ]
+            }
+        ],
+        "leftSections": [
+            {
+                "title": "Resumen",
+                "subsections": [
+                    {
+                        "description": "Especialista en acondicionamiento físico con la larga trayectoria de creación de planes de entrenamiento personalizados y dirección de sesiones de entrenamiento efectivas tanto individuales como grupales, me enfoco en crear ambientes positivos, motivadores y que logren sus objetivos personales. Busco un empleo estable en el que desarrollarme profesionalmente."
+                    }
+                ]
+            },
+            {
+                "title": "Experiencia",
+                "subsections": [
+                    {
+                        "title": "Entrenador Personal",
+                        "job": "The REUSE Company",
+                        "description": "Entrenamientos personalizados y actividades para grupos reducidos. Diseño, planificación y ejecución de eventos de 'team building' y actividades de dinamización. Instructor de clases de defensa personal, yoga y pilates",
+                        "dates": "2022 - Actualmente",
+                        "location": "Leganés, Madrid (Spain)",
+                        "tech": "Entrenamiento Personalizado, Defensa Personal, Yoga, Pilates.",
+                        "sector": "Deportes y Acvtividad Física"
+                    },
+                    {
+                        "title": "Técnico Deportivo Multidisciplinar",
+                        "job": "Universidad Carlos III de Madrid",
+                        "description": "Monitor de sala, supervisión de entrenamientos y asistencia técnica. Impartición de clases de Crossfit, Running, Mantenimiento Físico, Spinning, Pilates, Tonificación, Mediciones Corporales y Natación, promoviendo la mejora del rendimiento deportivo.",
+                        "dates": "2010 - 2024",
+                        "location": "Leganés, Madrid (Spain)",
+                        "tech": "Crossfit, Running, Mantenimiento Físico, Natación",
+                        "sector": "Deportes y Actividad Física"
+                    },
+                    {
+                        "title": "Técnico Deportivo Multidisciplinar",
+                        "job": "Forus Getafe",
+                        "description": "Monitor de sala y gestión de clases. Impartición de Crossfit, Running, Sesiones de Mantenimiento Físico y Natación. Realización de tareas de socorrista en instalaciones acuáticas.",
+                        "dates": "2017 - 2019",
+                        "location": "Leganés, Madrid (Spain)",
+                        "tech": "Crossfit, Running, Mantenimiento Físico, Natación, Socorrismo",
+                        "sector": "Deportes y Actividad Física"
+                    },
+                    {
+                        "title": "Coordinador de Fisioterapia",
+                        "job": "Universidad Carlos III de Madrid",
+                        "description": "Coordinación de la sección de fisioterapia en la carrera popular UC3M Intercampus, asegurando el correcto funcionamiento del equipo de fisioterapeutas y el bienestar de los participantes.",
+                        "dates": "2014 - 2018",
+                        "location": "Leganés, Madrid (Spain)",
+                        "tech": "Fisioterapia Deportiva",
+                        "sector": "Salud Deportiva y Eventos"
+                    },
+                    {
+                        "title": "Socorrista Acuático",
+                        "job": "Urbanización Los Olivos, Aquarium",
+                        "description": "Responsable del control de accesos, mantenimiento de las instalaciones y supervisión de la seguridad en la piscina. Funciones de socorrista garantizando la seguridad de los usuarios.",
+                        "dates": "2013 - 2016",
+                        "location": "Getafe, Madrid (Spain)",
+                        "tech": "Socorrismo, Seguridad en Piscinas",
+                        "sector": "Deportes Acuáticos"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "info": null,
+        "rightSections": null,
+        "leftSections": [
+            {
+                "title": "Experiencia",
+                "subsections": [
+                    {
+                        "title": "Técnico Deportivo",
+                        "job": "GE Escuela de Ocio SL",
+                        "description": "Responsable de actividades deportivas y dinamización en centros de menores. Fomento del deporte como herramienta de integración social y desarrollo físico.",
+                        "dates": "2011",
+                        "location": "Vallecas, Madrid (Spain)",
+                        "tech": "Deporte para Jóvenes, Dinamización de Actividades",
+                        "sector": "Deporte Social y Educación"
+                    },
+                    {
+                        "title": "Técnico Deportivo",
+                        "job": "Centro Deportivo Municipal San Agustín de Guadalix",
+                        "description": "Impartición de clases de gimnasia para la tercera edad, aerobic y predeporte para niños. Fomento de la actividad física adaptada a diferentes grupos de edad.",
+                        "dates": "2011",
+                        "location": "San Agustín de Guadalix, Madrid (Spain)",
+                        "tech": "Gimnasia para Mayores, Aerobic, Predeporte Infantil",
+                        "sector": "Deportes y Actividad Física"
+                    },
+                    {
+                        "title": "Técnico Deportivo",
+                        "job": "Fitness First",
+                        "description": "Monitor de sala y responsable de impartir clases de GAP y entrenamientos personalizados, enfocados en la mejora de la condición física de los usuarios.",
+                        "dates": "2010",
+                        "location": "Madrid (Spain)",
+                        "tech": "GAP, Entrenamiento Personalizado, Mantenimiento Físico",
+                        "sector": "Deportes y Actividad Física"
+                    },
+                    {
+                        "title": "Técnico Deportivo",
+                        "job": "Centro Deportivo Municipal J. M. Cagigal",
+                        "description": "Impartición de clases de natación, aquagym y mantenimiento físico, promoviendo la salud a través de actividades acuáticas y ejercicios de bajo impacto.",
+                        "dates": "2010",
+                        "location": "Madrid (Spain)",
+                        "tech": "Natación, Aquagym, Mantenimiento Físico",
+                        "sector": "Deportes Acuáticos y Actividad Física"
+                    },
+                    {
+                        "title": "Monitor de Lucha",
+                        "job": "Federación Madrileña de Lucha",
+                        "description": "Instructor de lucha en actividades extraescolares del Colegio Isaac Peral, promoviendo valores como la disciplina y el respeto a través del deporte.",
+                        "dates": "2007 - 2008",
+                        "location": "Madrid (Spain)",
+                        "tech": "Lucha, Artes Marciales",
+                        "sector": "Deportes de Combate y Educación Física"
+                    }
+                ]
+            },
+            {
+                "title": "Educación y Formación Específica",
+                "subsections": [
+                    {
+                        "title": "Técnico Especializado en el Método Pilates",
+                        "job": "Orthos",
+                        "description": "Formación avanzada en el método Pilates, incluyendo la planificación, ejecución y evaluación de sesiones centradas en la mejora de la fuerza, flexibilidad y bienestar general. Capacitación en técnicas específicas de Pilates para diferentes niveles y necesidades, y habilidad en la adaptación de ejercicios para optimizar los resultados y prevenir lesiones.",
+                        "dates": "2024"
+                    },
+                    {
+                        "title": "Título de Instructor de Indoorwalking",
+                        "job": "Indoorwalking Oficial",
+                        "description": "Certificación en el método de Indoorwalking, centrada en la planificación y ejecución de sesiones de entrenamiento en grupo utilizando máquinas especializadas para mejorar la resistencia cardiovascular y la tonificación muscular. Capacitación en técnicas de motivación y seguimiento del progreso de los participantes.",
+                        "dates": "2016"
+                    },
+                    {
+                        "title": "Certificado Primera Corona Pro-Cycling",
+                        "job": "Wellness Institute",
+                        "description": "Certificación en técnicas avanzadas de ciclismo indoor, incluyendo la planificación y ejecución de sesiones de entrenamiento en bicicleta estacionaria para mejorar el rendimiento cardiovascular y la fuerza. Habilidades en el diseño de programas de entrenamiento personalizados y en la gestión de clases grupales.",
+                        "dates": "2013"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "info": null,
+        "rightSections": null,
+        "leftSections": [
+            {
+                "title": "Educación y Formación Específica",
+                "subsections": [
+                    {
+                        "title": "Título de Entrenador Superior de Culturismo, Musculación y Fitness",
+                        "job": "Federación Española de Halterofilia",
+                        "description": "Especialización en culturismo, musculación y fitness con un enfoque en la planificación y ejecución de programas de entrenamiento avanzado para la mejora del rendimiento físico y la salud. Competencias en técnicas de entrenamiento para la maximización de fuerza y masa muscular, así como en la prevención y tratamiento de lesiones.",
+                        "dates": "2009"
+                    },
+                    {
+                        "title": "Título de Entrenador de Lucha Nivel 1",
+                        "job": "Federación Española de Luchas Olímpicas y Disciplinas Asociadas",
+                        "description": "Certificación en entrenamiento de lucha olímpica, abarcando técnicas básicas y avanzadas de lucha, así como la planificación de sesiones de entrenamiento y competiciones. Competencias en la enseñanza de habilidades técnicas y tácticas para la mejora del rendimiento en competiciones de lucha.",
+                        "dates": "2006"
+                    }
+                ]
+            },
+            {
+                "title": "Educación y Formación Académica",
+                "subsections": [
+                    {
+                        "title": "Ciclo Superior de Técnico en Actividades Físicas y Animación Deportiva",
+                        "job": "I. E. S. Ortega y Gasset",
+                        "description": "Formación especializada en la planificación, ejecución y evaluación de actividades físicas y deportivas, enfocada en la mejora del rendimiento, la salud y el bienestar. Capacitación en técnicas de entrenamiento deportivo, animación de actividades recreativas, y gestión de eventos deportivos. Competencias en primeros auxilios, socorrismo, y adaptación de actividades a diferentes grupos de edad y niveles de condición física.",
+                        "dates": "2008 - 2010",
+                        "location": "Leganés, Madrid (Spain)"
+                    },
+                    {
+                        "title": "Bachillerato en Ciencias Sociales",
+                        "job": "I. E. S. Ortega y Gasset",
+                        "description": "Formación académica centrada en el estudio de las ciencias sociales, abarcando materias como economía, historia, geografía y sociología. Desarrollo de habilidades analíticas y críticas, con un enfoque en la comprensión de fenómenos sociales, económicos y políticos. Capacitación en la interpretación de datos y el análisis de la realidad social, preparando para estudios superiores en áreas como administración, derecho, psicología y relaciones internacionales.",
+                        "dates": "2005 - 2007",
+                        "location": "Madrid (Spain)"
+                    }
+                ]
+            }
+        ]
+    }
+]
