@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "miguel-rozalen": {
+    "jonathan-lobato": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -65,10 +65,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "miguel-rozalen:build:production"
+              "buildTarget": "jonathan-lobato:build:production"
             },
             "development": {
-              "buildTarget": "miguel-rozalen:build:development"
+              "buildTarget": "jonathan-lobato:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -76,7 +76,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "buildTarget": "miguel-rozalen:build"
+            "buildTarget": "jonathan-lobato:build"
           }
         },
         "test": {
