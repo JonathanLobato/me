@@ -1,37 +1,65 @@
 [
     {
         "info": {
-            "name": "Miguel Á. Rozalén",
-            "jobTitle": "Senior Full Stack Developer",
-            "email": "mikelangel1993@gmail.com",
+            "name": "Jonathan Lobato",
+            "jobTitle": "Técnico Deportivo Multidisciplinar",
+            "email": "jonyjall@hotmail.com",
             "location": "Getafe, Madrid (Spain)",
-            "phoneNumber": "+34 664 14 27 24",
+            "phoneNumber": "+34 690 100 950",
             "img": "assets/img/me.jpg",
-            "linkedin": "https://www.linkedin.com/in/miguel-rozalen/"
+            "linkedin": "https://www.linkedin.com/in/jonathan-lobato-ley/"
         },
         "rightSections": [
             {
                 "title": "Fortalezas",
                 "subsections": [
                     {
-                        "title": "Liderazgo",
-                        "description": "Gestión y planificación existosa de equipos multidisciplinares de 3 a 5 personas.",
+                        "title": "Pasión por el deporte",
+                        "description": "",
                         "icon": "star_half"
                     },
                     {
-                        "title": "Resolución de Problemas",
+                        "title": "Planificación de entrenamientos",
                         "description": "Capacidad de pensar fuera de la caja y encontrar soluciones alternativas e innovadoras centradas en la optimización de procesos.",
                         "icon": "cognition"
                     },
                     {
-                        "title": "Multidisciplinaridad",
+                        "title": "Profesionalidad y Compromiso",
                         "description": "Colaboración y coordinación de perfiles con diferentes roles y background tecnológico.",
                         "icon": "diversity_4"
                     },
                     {
-                        "title": "Comunicación",
+                        "title": "Puntualidad y Organización",
                         "description": "Habilidad para expresarse y divulgar información de manera efectiva.",
                         "icon": "brand_awareness"
+                    },
+                    {
+                        "title": "Capacidad Liderazgo",
+                        "description": "Colaboración y coordinación de perfiles con diferentes roles y background tecnológico.",
+                        "icon": "diversity_4"
+                    },
+                    {
+                        "title": "Comunicación Empática y motivadora",
+                        "description": "Colaboración y coordinación de perfiles con diferentes roles y background tecnológico.",
+                        "icon": "diversity_4"
+                    },
+                    
+                    {
+                        "title": "Resolución de Problemas",
+                        "description": "Colaboración y coordinación de perfiles con diferentes roles y background tecnológico.",
+                        "icon": "diversity_4"
+                    },
+                    
+                    {
+                        "title": "Conocimiento de la Anatomía Humana",
+                        "description": "Colaboración y coordinación de perfiles con diferentes roles y background tecnológico.",
+                        "icon": "diversity_4"
+                    },
+                    
+                    {
+                        "title": "Conocimiento de Primeros Auxilios",
+                        "description": "Colaboración y coordinación de perfiles con diferentes roles y background tecnológico.",
+                        "icon": "diversity_4"
                     }
                 ]
             },
@@ -39,7 +67,7 @@
                 "title": "Habilidades",
                 "subsections": [
                     {
-                        "description": "Angular · .NET · Node · SQL · Git · Python · Java · Elasticsearch · ASP.NET · MongoDB · Azure · Gitlab · Apache Tomcat · Power Automate · ArangoDB · Google Cloud · SPRING · AngularJS · PL/I · SVN · XAML"
+                        "description": "Crossfit · Halterofilia · Powerlifting · Luchas Olimpicas · Psicomotricidad para menores · GAP · Entrenamiento Personal · Natación · Gimnasia para mayores · Tonificación · Actividades Deportivas con Discapacitados · Defensa Personal · Gimnasia Deportiva · Ciclo Indoor · TRX · Stetching & Movilidad · Masaje Deportivo · Indoorwalking · HIIT · Rehabilitación de Lesiones · Control Postural · Liberación con Foam Roller · Pilates"
                     }
                 ]
             },
@@ -50,7 +78,7 @@
                         "title": "Español - Lengua Materna"
                     },
                     {
-                        "title": "Inglés - C1"
+                        "title": "Inglés - B2"
                     }
                 ]
             },
@@ -58,24 +86,14 @@
                 "title": "Logros",
                 "subsections": [
                     {
-                        "title": "IMOLA IV",
-                        "description": "Planificación y desarrollo del proyecto europeo IMOLA IV.",
+                        "title": "Subcampeón Europeo de Lucha Grecorromana",
+                        "description": "",
                         "icon": "flag"
                     },
                     {
-                        "title": "RTVE Play",
-                        "description": "Planificación y desarrollo del buscador semántico de RTVE Play.",
+                        "title": "Campeón CCAM de Lucha Grecorromana",
+                        "description": "",
                         "icon": "slow_motion_video"
-                    },
-                    {
-                        "title": "T3CHFEST 2017 (V Edición)",
-                        "description": "Manipulando las redes sociales a voluntad.",
-                        "icon": "podium"
-                    },
-                    {
-                        "title": "Torre CEPSA",
-                        "description": "Programación del sistema de iluminación exterior domotizada.",
-                        "icon": "lightbulb"
                     }
                 ]
             }
@@ -85,7 +103,7 @@
                 "title": "Resumen",
                 "subsections": [
                     {
-                        "description": "Soy un apasionado de la tecnología. Me encanta investigar y cacharrear tanto con el software como con el hardware. Estoy especializado en la arquitectura de computadores. No obstante, me gustan otras áreas de conocimiento como la computación ubicua, el diseño web y el desarrollo de aplicaciones móviles o distribuidas. También tengo conocimientos de Big Data, Bussiness Inteligence, inteligencia artificial, legislación aplicada a datos y estándares de procesos de auditoría y certificación."
+                        "description": "Especialista en acondicionamiento físico con la larga trayectoria de creación de planes de entrenamiento personalizados y dirección de sesiones de entrenamiento efectivas tanto individuales como grupales, me enfoco en crear ambientes positivos, motivadores y que logren sus objetivos personales. Busco un empleo estable en el que desarrollarme profesionalmente."
                     }
                 ]
             },
