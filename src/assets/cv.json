@@ -105,6 +105,15 @@
                 "title": "Experiencia",
                 "subsections": [
                     {
+                        "title": "Técnico Deportivo Multidisciplinar",
+                        "job": "Ayuntamiento de Madrid (Ebone SL)",
+                        "description": "Entrenamientos de prevención de caídas, actividad física para tercera edad y grupos de riesgo, actividad física en colegios y marcha nórdica. Creación de planes de entrenamiento y consejos para llevar una correcta vida saludable, añadiendo buenos hábitos de nutrición y actividad física.",
+                        "dates": "2024 - Actualmente",
+                        "location": "Madrid, Madrid (Spain)",
+                        "tech": "Entrenamiento Personalizado, Actividad Física en Colegios, Marcha Nórdica.",
+                        "sector": "Deportes y Acvtividad Física"
+                    },
+                    {
                         "title": "Entrenador Personal",
                         "job": "The REUSE Company",
                         "description": "Entrenamientos personalizados y actividades para grupos reducidos. Diseño, planificación y ejecución de eventos de 'team building' y actividades de dinamización. Instructor de clases de defensa personal, yoga y pilates",
@@ -139,15 +148,6 @@
                         "location": "Leganés, Madrid (Spain)",
                         "tech": "Fisioterapia Deportiva",
                         "sector": "Salud Deportiva y Eventos"
-                    },
-                    {
-                        "title": "Socorrista Acuático",
-                        "job": "Urbanización Los Olivos, Aquarium",
-                        "description": "Responsable del control de accesos, mantenimiento de las instalaciones y supervisión de la seguridad en la piscina. Funciones de socorrista garantizando la seguridad de los usuarios.",
-                        "dates": "2013 - 2016",
-                        "location": "Getafe, Madrid (Spain)",
-                        "tech": "Socorrismo, Seguridad en Piscinas",
-                        "sector": "Deportes Acuáticos"
                     }
                 ]
             }
@@ -160,6 +160,15 @@
             {
                 "title": "Experiencia",
                 "subsections": [
+                    {
+                        "title": "Socorrista Acuático",
+                        "job": "Urbanización Los Olivos, Aquarium",
+                        "description": "Responsable del control de accesos, mantenimiento de las instalaciones y supervisión de la seguridad en la piscina. Funciones de socorrista garantizando la seguridad de los usuarios.",
+                        "dates": "2013 - 2016",
+                        "location": "Getafe, Madrid (Spain)",
+                        "tech": "Socorrismo, Seguridad en Piscinas",
+                        "sector": "Deportes Acuáticos"
+                    },
                     {
                         "title": "Técnico Deportivo",
                         "job": "GE Escuela de Ocio SL",
@@ -221,12 +230,6 @@
                         "job": "Indoorwalking Oficial",
                         "description": "Certificación en el método de Indoorwalking, centrada en la planificación y ejecución de sesiones de entrenamiento en grupo utilizando máquinas especializadas para mejorar la resistencia cardiovascular y la tonificación muscular. Capacitación en técnicas de motivación y seguimiento del progreso de los participantes.",
                         "dates": "2016"
-                    },
-                    {
-                        "title": "Certificado Primera Corona Pro-Cycling",
-                        "job": "Wellness Institute",
-                        "description": "Certificación en técnicas avanzadas de ciclismo indoor, incluyendo la planificación y ejecución de sesiones de entrenamiento en bicicleta estacionaria para mejorar el rendimiento cardiovascular y la fuerza. Habilidades en el diseño de programas de entrenamiento personalizados y en la gestión de clases grupales.",
-                        "dates": "2013"
                     }
                 ]
             }
@@ -239,6 +242,12 @@
             {
                 "title": "Educación y Formación Específica",
                 "subsections": [
+                    {
+                        "title": "Certificado Primera Corona Pro-Cycling",
+                        "job": "Wellness Institute",
+                        "description": "Certificación en técnicas avanzadas de ciclismo indoor, incluyendo la planificación y ejecución de sesiones de entrenamiento en bicicleta estacionaria para mejorar el rendimiento cardiovascular y la fuerza. Habilidades en el diseño de programas de entrenamiento personalizados y en la gestión de clases grupales.",
+                        "dates": "2013"
+                    },
                     {
                         "title": "Título de Entrenador Superior de Culturismo, Musculación y Fitness",
                         "job": "Federación Española de Halterofilia",
